@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/house-of-abbey/GarminHomeAssistant/main/config.schema.json",
+    "title": "Home",
+    "items": [
+      {
+          "entity": "switch.4fshang_hao_dian_feng_shan",
+          "name": "上豪電風扇",
+          "type" : "toggle"
+      }
+    ]
+}
